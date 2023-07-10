@@ -1,6 +1,6 @@
 # Data resource
  https://www.kaggle.com/datasets/heeraldedhia/bike-buyers 
-
- ------------
-![modeling](https://github.com/debeaver/Data-Analysis/assets/83124976/8db97e17-2ea9-4eb2-973f-d5518409d525)
-![coding_book](https://github.com/debeaver/Data-Analysis/assets/83124976/c895ddef-9eeb-49ed-860a-ce9baed2dc2c)
+# model
+![image](https://github.com/debeaver/Data-Analysis/assets/83124976/1e4c3387-65df-42d6-bb57-db8fad2fd485)
+# coding book
+![image](https://github.com/debeaver/Data-Analysis/assets/83124976/7d9b813f-8d95-424c-b0fa-f4e702108da4)
