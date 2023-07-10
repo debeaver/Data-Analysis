@@ -1,4 +1,6 @@
-data resource: https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
+# Data resource
+ https://www.kaggle.com/datasets/heeraldedhia/bike-buyers 
 
-<iframe src="https://onedrive.live.com/embed?resid=C903C8BAF2A1521E%213189&amp;authkey=!AD1mVHHTpEhfy9o&amp;em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
-
+ ------------
+![modeling](https://github.com/debeaver/Data-Analysis/assets/83124976/8db97e17-2ea9-4eb2-973f-d5518409d525)
+![coding_book](https://github.com/debeaver/Data-Analysis/assets/83124976/c895ddef-9eeb-49ed-860a-ce9baed2dc2c)
