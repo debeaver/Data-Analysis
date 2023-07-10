@@ -1,2 +1,2 @@
-# data resource: https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
+data resource: https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
 <iframe src="https://onedrive.live.com/embed?resid=C903C8BAF2A1521E%213189&amp;authkey=!AD1mVHHTpEhfy9o&amp;em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
