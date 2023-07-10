@@ -1,2 +1,3 @@
 data resource : https://www.kaggle.com/datasets/heeraldedhia/bike-buyers
-<iframe src="https://onedrive.live.com/embed?resid=C903C8BAF2A1521E%213766&amp;authkey=!AO9lmDESyHETVpY&amp;em=2&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=1" width="476px" height="288px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
+![image](https://github.com/debeaver/Data-Analysis/assets/83124976/70c13a11-55dc-4dde-8346-b51a20858b8c)
+![image](https://github.com/debeaver/Data-Analysis/assets/83124976/9fe8df14-5e86-44c3-922e-c93d57244fe1)
